@@ -121,11 +121,11 @@ export class Employee extends Component {
                     >
                         Add Employee
                     </Button>
-
+{/*
                     <addEmpModel
                         show={this.state.state.addModalShow}
                         onClick={addModalClose}
-                    />
+                    />*/}
                 </ButtonToolbar>
             </div>
         );
